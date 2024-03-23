@@ -1,4 +1,3 @@
-# Container-and-Kubernetes
 old: https://github.com/ansible/ansible-container
 
 # Ansible Bender for Containers
